@@ -10,7 +10,6 @@ export default function App() {
                 <Image source={PlaceholderImage} style={styles.image} />
             </View>
             <StatusBar style="auto" />
-            <Text>change</Text>
         </View>
     );
 }
